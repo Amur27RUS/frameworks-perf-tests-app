@@ -1,0 +1,1 @@
+{"framework":"mikado-v0.8.327-keyed","keyed":true,"benchmark":"41_size-uncompressed","type":"size","values":{"DEFAULT":{"min":11.9,"max":11.9,"median":11.9,"mean":11.9,"stddev":null,"values":[11.9]}}}

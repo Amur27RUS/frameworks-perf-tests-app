@@ -1,0 +1,1 @@
+{"framework":"vue-v3.4.21-keyed","keyed":true,"benchmark":"26_run-10k-memory","type":"memory","values":{"DEFAULT":{"min":30.4146728515625,"max":30.4146728515625,"median":30.4146728515625,"mean":30.4146728515625,"stddev":null,"values":[30.4146728515625]}}}

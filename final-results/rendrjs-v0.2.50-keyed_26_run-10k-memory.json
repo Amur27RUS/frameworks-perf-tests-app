@@ -1,0 +1,1 @@
+{"framework":"rendrjs-v0.2.50-keyed","keyed":true,"benchmark":"26_run-10k-memory","type":"memory","values":{"DEFAULT":{"min":24.867281913757324,"max":24.867281913757324,"median":24.867281913757324,"mean":24.867281913757324,"stddev":null,"values":[24.867281913757324]}}}

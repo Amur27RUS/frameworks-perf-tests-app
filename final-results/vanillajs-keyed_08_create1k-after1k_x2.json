@@ -1,0 +1,1 @@
+{"framework":"vanillajs-keyed","keyed":true,"benchmark":"08_create1k-after1k_x2","type":"cpu","values":{"total":{"median":null,"mean":null,"stddev":0,"values":[]},"script":{"median":null,"mean":null,"stddev":0,"values":[]},"paint":{"median":null,"mean":null,"stddev":0,"values":[]}}}

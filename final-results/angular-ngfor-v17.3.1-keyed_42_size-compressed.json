@@ -1,0 +1,1 @@
+{"framework":"angular-ngfor-v17.3.1-keyed","keyed":true,"benchmark":"42_size-compressed","type":"size","values":{"DEFAULT":{"min":43.6,"max":43.6,"median":43.6,"mean":43.6,"stddev":null,"values":[43.6]}}}

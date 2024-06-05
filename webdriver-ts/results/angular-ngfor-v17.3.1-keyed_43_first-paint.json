@@ -1,0 +1,1 @@
+{"framework":"angular-ngfor-v17.3.1-keyed","keyed":true,"benchmark":"43_first-paint","type":"size","values":{"DEFAULT":{"min":547.5,"max":547.5,"median":547.5,"mean":547.5,"stddev":null,"values":[547.5]}}}

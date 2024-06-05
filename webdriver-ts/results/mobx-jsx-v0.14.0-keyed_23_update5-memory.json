@@ -1,0 +1,1 @@
+{"framework":"mobx-jsx-v0.14.0-keyed","keyed":true,"benchmark":"23_update5-memory","type":"memory","values":{"DEFAULT":{"min":4.159046173095703,"max":4.159046173095703,"median":4.159046173095703,"mean":4.159046173095703,"stddev":null,"values":[4.159046173095703]}}}

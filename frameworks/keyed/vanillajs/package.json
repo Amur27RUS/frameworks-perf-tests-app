@@ -1,0 +1,20 @@
+{
+  "name": "vanillajs",
+  "version": "1.1.1",
+  "description": "Vanilla.JS demo",
+  "main": "index.js",
+  "js-framework-benchmark": {
+    "frameworkVersion": "",
+    "issues": [
+      772
+    ]
+  },
+  "scripts": {
+    "dev": "exit 0",
+    "build-prod": "exit 0"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ]
+}

@@ -1,0 +1,1 @@
+{"framework":"angular-ngfor-v17.3.1-keyed","keyed":true,"benchmark":"25_run-clear-memory","type":"memory","values":{"DEFAULT":{"min":2.420839309692383,"max":2.420839309692383,"median":2.420839309692383,"mean":2.420839309692383,"stddev":null,"values":[2.420839309692383]}}}

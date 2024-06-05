@@ -1,0 +1,1 @@
+{"framework":"skruv-v0.6.3-keyed","keyed":true,"benchmark":"26_run-10k-memory","type":"memory","values":{"DEFAULT":{"min":16.959842681884766,"max":16.959842681884766,"median":16.959842681884766,"mean":16.959842681884766,"stddev":null,"values":[16.959842681884766]}}}

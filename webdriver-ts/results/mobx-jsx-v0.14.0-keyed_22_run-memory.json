@@ -1,0 +1,1 @@
+{"framework":"mobx-jsx-v0.14.0-keyed","keyed":true,"benchmark":"22_run-memory","type":"memory","values":{"DEFAULT":{"min":4.120135307312012,"max":4.120135307312012,"median":4.120135307312012,"mean":4.120135307312012,"stddev":null,"values":[4.120135307312012]}}}

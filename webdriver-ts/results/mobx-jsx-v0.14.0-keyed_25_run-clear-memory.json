@@ -1,0 +1,1 @@
+{"framework":"mobx-jsx-v0.14.0-keyed","keyed":true,"benchmark":"25_run-clear-memory","type":"memory","values":{"DEFAULT":{"min":1.1923351287841797,"max":1.1923351287841797,"median":1.1923351287841797,"mean":1.1923351287841797,"stddev":null,"values":[1.1923351287841797]}}}
